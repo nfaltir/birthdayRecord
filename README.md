@@ -30,5 +30,5 @@ Input
 
 Output
 1. Name and birthday date is displayed
-2. when user enters 'ALL' it will show the complete bday directory
+2. if user enters 'ALL' it will show the complete bday directory
 3. If user enters 'END' program will terminate
